@@ -4,7 +4,7 @@
 ## 📋 Hackathon List
 
 | # | Event Name | Registration Link |
-
+| :---: | :--- | :--- |
 | **1** | **EC-Council HackAI Challenge: RACEx360** | [Register Here](https://unstop.com/o/Ukci7Fb?lb=xyVYEXaA&utm_medium=Share&utm_source=online_coding_challenge&utm_campaign=Shivasha31223)[cite: 1] |
 | **2** | **The Frontend Odyssey 2026** | [Register Here](https://unstop.com/o/fzkVi2q?lb=xyVYEXaA&utm_medium=Share&utm_source=online_coding_challenge&utm_campaign=Shivasha31223)[cite: 1] |
 | **3** | **Data Analytics Hackathon** | [Register Here](https://unstop.com/o/vnxyTr8?lb=xyVYEXaA&utm_medium=Share&utm_source=online_coding_challenge&utm_campaign=Shivasha31223)[cite: 1] |
